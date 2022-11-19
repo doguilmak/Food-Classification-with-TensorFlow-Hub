@@ -57,7 +57,7 @@ Original file is located at
 
 <p>This lab will walk you through how to use object detection models available in <a href="(https://www.tensorflow.org/hub">Tensorflow Hub</a>. This project was created to provide information on how to add and use the pre-trained food classification model through TensorFlow Hub. In the following sections, you will:</p>
 
-<div class="alert alert-block alert-secondary" style="margin-top: 20px">
+<div class="alert alert-block alert-info" style="margin-top: 20px">
 <li><a href="https://#import">Import Libraries</a></li>
 <li><a href="https://#import_hub">Download the Model from Tensorflow Hub</a></li>
 <li><a href="https://#build_function">Build Function for Detector</a></li>
