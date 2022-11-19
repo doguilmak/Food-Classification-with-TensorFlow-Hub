@@ -4,7 +4,7 @@
 
 <img  src="https://i.ytimg.com/vi/yjprpOoH5c8/maxresdefault.jpg"  height=450  width=1000  alt="tensorflow.org">  
 
-<small>Picture Source:<a  href="https://www.tensorflow.org/"> TensorFlow</a>  
+<small>Picture Source:<a href="https://www.tensorflow.org/"> TensorFlow</a></small>
 
 <br>  
 
