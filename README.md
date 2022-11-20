@@ -1,4 +1,4 @@
-<h1  align=center><font  size = 6>Food Classification Model with Tensorflow Hub</font></h1>  
+<h1  align=center><font  size = 6>Food Classification with Tensorflow Hub</font></h1>  
 
 <br>  
 
